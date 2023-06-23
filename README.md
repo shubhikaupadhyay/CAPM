@@ -26,8 +26,8 @@ CAPM assumes that there exists a risk free asset return with zero standard devia
 **Beta**
 - It is a measure of a stock's risk (volatility of returns) reflected by measuring the fluctuation of its price changes relative to the overall market. 
    - beta = 0: No Market Sensitivity 
-   - beta <1: Low Market Sensitivity 
+   - beta < 1: Low Market Sensitivity 
    - beta = 1: Same as Market (Neutral) 
-   - beta >1: High Market Sensitivity
+   - beta > 1: High Market Sensitivity
    - beta < 0: Negative Market Sensitivity 
 
