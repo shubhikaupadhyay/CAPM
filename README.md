@@ -4,10 +4,10 @@ This model outlines the connection between the anticipated return and the risk a
 
 ### R<Sub>i</Sub> = R<Sub>f</Sub> + B<Sub>i</Sub> (R<Sub>m</Sub> - R<Sub>f</Sub>)
 
-R<Sub>i</Sub> = Expected Return on a Security
-R<Sub>f</Sub> = Risk Free Rate of Return 
-B<Sub>i</Sub> = Beta between the Stock & the Market
-R<Sub>m</Sub> = Expected Return of the Market
+- R<Sub>i</Sub> = Expected Return on a Security
+- R<Sub>f</Sub> = Risk Free Rate of Return 
+- B<Sub>i</Sub> = Beta between the Stock & the Market
+- R<Sub>m</Sub> = Expected Return of the Market
 
 CAPM assumes that there exists a risk free asset return with zero standard deviation
 
